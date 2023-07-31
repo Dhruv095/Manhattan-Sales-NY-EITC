@@ -31,6 +31,6 @@ The two-tab structure allows users to easily navigate between the datasets, prov
 5. What is the average minimum income, maximum income, and average credit amount based on the number of qualifying children?
 6. How does the Earned Income Tax Credit amount vary based on earnings and the number of children claimed?
 
-![](NY-Sales-EITC/EITC-Dashboard.png)
+![](NY-Sales-EITC/EITCDashboard.png)
 
  
