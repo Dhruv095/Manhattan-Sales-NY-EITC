@@ -19,5 +19,4 @@ The two-tab structure allows users to easily navigate between the datasets, prov
 5. What is the difference between the average and median prices of properties in the neighborhood?
 6. What is the average sales amount of properties and the total sales amount for all properties in Manhattan?
 
-![](Sales Dashboard.png)
-
+![](SalesDashboard.png)
