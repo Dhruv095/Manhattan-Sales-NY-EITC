@@ -19,4 +19,18 @@ The two-tab structure allows users to easily navigate between the datasets, prov
 5. What is the difference between the average and median prices of properties in the neighborhood?
 6. What is the average sales amount of properties and the total sales amount for all properties in Manhattan?
 
-![Dashboard](SalesDashboard.png)
+![](NY-Sales-EITC/SalesDashboard.png)
+
+## Problem Statement for the EITC Data
+
+
+1. What are the total number of claims, total Earned Income Tax Credit (EITC) amount, total credit, and the average salary range?
+2. How do the total number of claims compare to the total credit amount from 2004 to 2014?
+3. How many total claims were made based on the number of qualifying children?
+4. What is the average Earned Income Tax Credit amount for each tax year?
+5. What is the average minimum income, maximum income, and average credit amount based on the number of qualifying children?
+6. How does the Earned Income Tax Credit amount vary based on earnings and the number of children claimed?
+
+![](NY-Sales-EITC/EITC-Dashboard.png)
+
+ 
